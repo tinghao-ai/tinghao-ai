@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tinghao</h1>
 <h3 align="center">Startup Founder who is building something people want</h3>
 
-- 🔭 I’m currently working on **Avernus AI - Startup Founder Co-Pilot**
+- 🔭 I’m currently working on **Avernus AI - from a idea to the monopoly **
 
 - 🌱 I’m currently learning **Rust**
 
