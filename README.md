@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **DM on X**
 
-- ⚡ Fun fact **I'm a 20 yo CEO.**
+- ⚡ Fun fact **I'm a 20 yo CEO of a small LLC.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
