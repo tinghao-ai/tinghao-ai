@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tinghao</h1>
-<h3 align="center">Startup Founder who is building something people want</h3>
+<h3 align="center">building something people want</h3>
 
 - 🔭 I’m currently working on **Avernus AI - from an idea to the monopoly**
 
