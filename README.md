@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working on building something people want.<br>I research and build product related to LLM, also agents or RAG.
-
+20 yo CEO of 2 startups
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tinghao_ai) 
