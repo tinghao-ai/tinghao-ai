@@ -1,5 +1,5 @@
 # 💫 About Me:
-20 yo CEO, building ai for lawyer
+21 yo founder and full-stack engineer who is building al platform for lawyers
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tinghao_ai) 
