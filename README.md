@@ -1,5 +1,6 @@
 # 💫 About Me:
-21 yo Founder and CEO, lead the team to build ai agent for lawyer
+22 yo Founder and CEO
+Building AI Native Things
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tinghao_ai) 
